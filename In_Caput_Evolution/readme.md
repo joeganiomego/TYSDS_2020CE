@@ -1,4 +1,9 @@
 
+
+https://github.com/joeganiomego/TYSDS_2020CE/blob/main/In_Caput_Evolution/TheSwitchTECHLEVELGrowth_01_1big.png?raw=true
+
+
+
 MPADDE_inCaputEvolution_01.jl  :
 Main Allometric model of homo sapiens species
 MPADDE   Manual Parameter Adjustement DDE style
