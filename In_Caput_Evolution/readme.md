@@ -39,3 +39,9 @@ dx[2] = paramg2[1]*x[1]^(paramg2[2])*(x[2]^(paramg2[3]))*(x[2]^(x[2]*(paramg2[4]
 (abs(x[2]-h(p, t-tau)[2])+((0.0602)*h(p, t-tau)[2]))
 )
 end
+
+
+
+
+
+![switch chart](https://raw.githubusercontent.com/joeganiomego/TYSDS_2020CE/main/In_Caput_Evolution/TheSwitchGrowth_01_1superfocus.png)
