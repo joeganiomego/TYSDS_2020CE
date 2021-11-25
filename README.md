@@ -7,6 +7,19 @@ Output data time period 2000 BCE to 6000 CE.
 
 All Julia files run up to Julia 1.5.3 .
 
+<br>
 
-![image](https://user-images.githubusercontent.com/82327033/143083634-d5429b5a-8e40-4ca3-8216-d797a10527d2.png)
+Full explanation of these models is in this e-book:
 
+<br>
+
+
+![image](https://raw.githubusercontent.com/joeganiomego/TYSDS_2020CE/main/TYSDS_Cover_01_compressed.jpg)
+
+
+
+
+<br>
+
+
+![image](https://raw.githubusercontent.com/joeganiomego/TYSDS_2020CE/main/In_Caput_Evolution/FunctionalResponse_01_1.png)
