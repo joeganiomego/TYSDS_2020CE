@@ -16,7 +16,8 @@ Full explanation of these models is in this e-book:
 <br>
 
 
-![image](https://raw.githubusercontent.com/joeganiomego/TYSDS_2020CE/main/TYSDS_Cover_01_compressed.jpg)
+
+<kbd> <img src="https://raw.githubusercontent.com/joeganiomego/TYSDS_2020CE/main/TYSDS_Cover_01_compressed.jpg" /> </kbd>
 
 
 
